@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="homework1/homework1.csproj" />
   <Project Path="homework2/homework2.csproj" Id="6ed63bbb-2ac7-498b-b13f-02704dbcb132" />
+  <Project Path="homework3/homework3.csproj" Id="ef9faf6f-99ea-4842-8290-a44dfaadbfb1" />
+  <Project Path="homework4/homework4.csproj" Id="8ad24da8-f338-4e09-886b-1e6a88115baa" />
 </Solution>
